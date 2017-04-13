@@ -1,0 +1,4 @@
+/Users/ire/Downloads/vectiler-master/build/CMakeFiles/edit_cache.dir
+/Users/ire/Downloads/vectiler-master/build/CMakeFiles/rebuild_cache.dir
+/Users/ire/Downloads/vectiler-master/build/CMakeFiles/vectiler.out.dir
+/Users/ire/Downloads/vectiler-master/build/CMakeFiles/vectiler_core.dir
