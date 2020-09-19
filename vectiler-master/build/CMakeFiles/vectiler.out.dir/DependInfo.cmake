@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/ire/Downloads/vectiler-master/src/cmdline.c" "/Users/ire/Downloads/vectiler-master/build/CMakeFiles/vectiler.out.dir/src/cmdline.c.o"
+  "/Users/guangyudu/Projects/vectiler/vectiler-master/src/cmdline.c" "/Users/guangyudu/Projects/vectiler/vectiler-master/build/CMakeFiles/vectiler.out.dir/src/cmdline.c.o"
   )
 set(CMAKE_C_COMPILER_ID "Clang")
 
@@ -20,7 +20,7 @@ set(CMAKE_C_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/Users/ire/Downloads/vectiler-master/build/CMakeFiles/vectiler_core.dir/DependInfo.cmake"
+  "/Users/guangyudu/Projects/vectiler/vectiler-master/build/CMakeFiles/vectiler_core.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

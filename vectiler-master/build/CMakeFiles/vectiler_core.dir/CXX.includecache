@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -798,7 +798,7 @@ string
 vector
 -
 
-/Users/ire/Downloads/vectiler-master/platform/curl_httpget.cpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/platform/curl_httpget.cpp
 sstream
 -
 string
@@ -808,17 +808,17 @@ curl/curl.h
 iostream
 -
 
-/Users/ire/Downloads/vectiler-master/src/earcut.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/earcut.h
 earcut.hpp
-/Users/ire/Downloads/vectiler-master/src/earcut.hpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/earcut.hpp
 
-/Users/ire/Downloads/vectiler-master/src/geojson.cpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/geojson.cpp
 geojson.h
-/Users/ire/Downloads/vectiler-master/src/geojson.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/geojson.h
 glm/glm.hpp
-/Users/ire/Downloads/vectiler-master/src/glm/glm.hpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/glm/glm.hpp
 
-/Users/ire/Downloads/vectiler-master/src/geojson.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/geojson.h
 vector
 -
 string
@@ -826,19 +826,19 @@ string
 iostream
 -
 rapidjson/document.h
-/Users/ire/Downloads/vectiler-master/src/rapidjson/document.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/rapidjson/document.h
 tiledata.h
-/Users/ire/Downloads/vectiler-master/src/tiledata.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/tiledata.h
 projection.h
-/Users/ire/Downloads/vectiler-master/src/projection.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/projection.h
 
-/Users/ire/Downloads/vectiler-master/src/projection.cpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/projection.cpp
 projection.h
-/Users/ire/Downloads/vectiler-master/src/projection.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/projection.h
 
-/Users/ire/Downloads/vectiler-master/src/projection.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/projection.h
 glm/glm.hpp
-/Users/ire/Downloads/vectiler-master/src/glm/glm.hpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/glm/glm.hpp
 cmath
 -
 functional
@@ -848,9 +848,9 @@ bitset
 cmath
 -
 
-/Users/ire/Downloads/vectiler-master/src/stb_image.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/stb_image.h
 stb_image.h
-/Users/ire/Downloads/vectiler-master/src/stb_image.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/stb_image.h
 stdio.h
 -
 stdarg.h
@@ -876,15 +876,15 @@ intrin.h
 arm_neon.h
 -
 
-/Users/ire/Downloads/vectiler-master/src/tiledata.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/tiledata.h
 glm/glm.hpp
-/Users/ire/Downloads/vectiler-master/src/glm/glm.hpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/glm/glm.hpp
 string
 -
 map
 -
 
-/Users/ire/Downloads/vectiler-master/src/vectiler.cpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/vectiler.cpp
 iostream
 -
 string
@@ -900,21 +900,21 @@ limits
 memory
 -
 rapidjson/document.h
-/Users/ire/Downloads/vectiler-master/src/rapidjson/document.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/rapidjson/document.h
 geojson.h
-/Users/ire/Downloads/vectiler-master/src/geojson.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/geojson.h
 tiledata.h
-/Users/ire/Downloads/vectiler-master/src/tiledata.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/tiledata.h
 vectiler.h
-/Users/ire/Downloads/vectiler-master/src/vectiler.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/vectiler.h
 earcut.h
-/Users/ire/Downloads/vectiler-master/src/earcut.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/earcut.h
 platform.h
-/Users/ire/Downloads/vectiler-master/src/platform.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/platform.h
 stb_image.h
-/Users/ire/Downloads/vectiler-master/src/stb_image.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/stb_image.h
 
-/Users/ire/Downloads/vectiler-master/src/vectiler.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/vectiler.h
 tiledata.h
-/Users/ire/Downloads/vectiler-master/src/tiledata.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/tiledata.h
 

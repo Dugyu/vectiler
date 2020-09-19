@@ -1,2 +1,2 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libvectiler_core.a  CMakeFiles/vectiler_core.dir/src/geojson.cpp.o CMakeFiles/vectiler_core.dir/src/projection.cpp.o CMakeFiles/vectiler_core.dir/src/vectiler.cpp.o CMakeFiles/vectiler_core.dir/platform/curl_httpget.cpp.o
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libvectiler_core.a
+/Library/Developer/CommandLineTools/usr/bin/ar qc libvectiler_core.a CMakeFiles/vectiler_core.dir/src/geojson.cpp.o CMakeFiles/vectiler_core.dir/src/projection.cpp.o CMakeFiles/vectiler_core.dir/src/vectiler.cpp.o CMakeFiles/vectiler_core.dir/platform/curl_httpget.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libvectiler_core.a

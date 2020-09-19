@@ -4,10 +4,10 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/ire/Downloads/vectiler-master/platform/curl_httpget.cpp" "/Users/ire/Downloads/vectiler-master/build/CMakeFiles/vectiler_core.dir/platform/curl_httpget.cpp.o"
-  "/Users/ire/Downloads/vectiler-master/src/geojson.cpp" "/Users/ire/Downloads/vectiler-master/build/CMakeFiles/vectiler_core.dir/src/geojson.cpp.o"
-  "/Users/ire/Downloads/vectiler-master/src/projection.cpp" "/Users/ire/Downloads/vectiler-master/build/CMakeFiles/vectiler_core.dir/src/projection.cpp.o"
-  "/Users/ire/Downloads/vectiler-master/src/vectiler.cpp" "/Users/ire/Downloads/vectiler-master/build/CMakeFiles/vectiler_core.dir/src/vectiler.cpp.o"
+  "/Users/guangyudu/Projects/vectiler/vectiler-master/platform/curl_httpget.cpp" "/Users/guangyudu/Projects/vectiler/vectiler-master/build/CMakeFiles/vectiler_core.dir/platform/curl_httpget.cpp.o"
+  "/Users/guangyudu/Projects/vectiler/vectiler-master/src/geojson.cpp" "/Users/guangyudu/Projects/vectiler/vectiler-master/build/CMakeFiles/vectiler_core.dir/src/geojson.cpp.o"
+  "/Users/guangyudu/Projects/vectiler/vectiler-master/src/projection.cpp" "/Users/guangyudu/Projects/vectiler/vectiler-master/build/CMakeFiles/vectiler_core.dir/src/projection.cpp.o"
+  "/Users/guangyudu/Projects/vectiler/vectiler-master/src/vectiler.cpp" "/Users/guangyudu/Projects/vectiler/vectiler-master/build/CMakeFiles/vectiler_core.dir/src/vectiler.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "Clang")
 

@@ -1,4 +1,4 @@
-#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
 
 #IncludeRegexScan: ^.*$
 
@@ -654,23 +654,23 @@ detail/type_vec4.hpp
 detail/func_vector_relational.hpp
 ../3rdparty/glm/glm/detail/func_vector_relational.hpp
 
-/Users/ire/Downloads/vectiler-master/src/cmdline.c
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/cmdline.c
 flag.h
-/Users/ire/Downloads/vectiler-master/src/flag.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/flag.h
 flag.c
-/Users/ire/Downloads/vectiler-master/src/flag.c
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/flag.c
 vectiler.h
-/Users/ire/Downloads/vectiler-master/src/vectiler.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/vectiler.h
 
-/Users/ire/Downloads/vectiler-master/src/tiledata.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/tiledata.h
 glm/glm.hpp
-/Users/ire/Downloads/vectiler-master/src/glm/glm.hpp
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/glm/glm.hpp
 string
 -
 map
 -
 
-/Users/ire/Downloads/vectiler-master/src/vectiler.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/vectiler.h
 tiledata.h
-/Users/ire/Downloads/vectiler-master/src/tiledata.h
+/Users/guangyudu/Projects/vectiler/vectiler-master/src/tiledata.h
 

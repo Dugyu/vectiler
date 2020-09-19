@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/vectiler.out.dir/src/cmdline.c.o"
-  "vectiler.out.pdb"
   "vectiler.out"
+  "vectiler.out.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
